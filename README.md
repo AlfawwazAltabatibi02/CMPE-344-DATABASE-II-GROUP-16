@@ -1,4 +1,4 @@
-# 🏆 TournamentDB — Sports Tournament Database Management System
+#  TournamentDB — Sports Tournament Database Management System
 
 A full-stack web application to manage sports tournaments, teams, players, matches, venues, referees, standings, and awards.
 
@@ -20,12 +20,12 @@ A full-stack web application to manage sports tournaments, teams, players, match
 | Awards | Tournament awards like Golden Boot, MVP |
 
 ## Features
-- ✅ Full CRUD on all 8 tables (Add, Edit, Delete)
-- ✅ Global search across tournaments, teams, players, venues
-- ✅ Column sorting on all tables
-- ✅ Live-filter search per table
-- ✅ Dashboard with stats overview + live panels
-- ✅ REST API with proper JSON responses
+-  Full CRUD on all 8 tables (Add, Edit, Delete)
+-  Global search across tournaments, teams, players, and venues
+-  Column sorting on all tables
+-  Live-filter search per table
+-  Dashboard with stats overview + live panels
+-  REST API with proper JSON responses
 
 ## Run It
 ```bash
